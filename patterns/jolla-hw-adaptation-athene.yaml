@@ -14,6 +14,7 @@ Requires:
 - droid-config-athene-flashing
 - droid-config-athene-bluez4
 - droid-hal-version-athene
+- droid-hal-athene-detritus
 
 # Hybris packages
 - libhybris-libEGL
